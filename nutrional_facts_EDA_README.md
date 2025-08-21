@@ -5,17 +5,17 @@ The main goal is to identify distributions, detect outliers, and uncover meaning
 
 1. DATASET DESCRIPTION
 
-Total rows: 260
-Total columns: 8
-Missing values: None
-Duplicates: None
-Consistency: All categorical values appear consistent
+Total rows: 260<br>
+Total columns: 8<br>
+Missing values: None<br>
+Duplicates: None<br>
+Consistency: All categorical values appear consistent<br>
 
 1.2 DATA TYPES
 
 Numeric: Calories, Protein, Carbohydrates, Total Fat, Sugar
-Categorical: Item, Category
-Datetime: None
+Categorical: Item, Category<br>
+Datetime: None<br>
 
 1.3 BASIC STATISTICS
 
