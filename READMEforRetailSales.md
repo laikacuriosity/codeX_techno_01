@@ -26,7 +26,7 @@ Average unit price per products sold: 179
 ANALYSIS WORKFLOW:
 
 1. DATA OVERVIEW:
-   Checked dataset structure, data types, and missing values.
+   Checked dataset structure, data types and missing values.
    Verified all columns have non-null values.
    Identified skewness in total amount due to a few high-vaue traansactions.
    
@@ -61,12 +61,12 @@ Product Trends:
 Spending Patterns:
 
   1. A few high-value trasactions skew total revenue.
-  2. Men spend more per purchase on beauty products, ven though women buy more frequently.
+  2. Men spend more per purchase on beauty products, even though women buy more frequently.
 
 Temporal Trends:
 
-  1. Monthly Revenue: peaks in May, December, and October 2023; drops in January, March, and         September.
-  2. Weekly Revenue: Saturdays generate the highest revenue; Thursdays the lowest.
+  1. Monthly Revenue: peaks in May, December and October 2023; drops in January, March, and         September.
+  2. Weekly Revenue: Saturdays generate the highest revenue; Thursdays being the lowest.
 
 Age Group Insights:
   1. Young Adults(19-35) are the largest revenue contributors, espeially in clothing and         beauty.
@@ -80,4 +80,4 @@ Recommendation:
   Boost midweek sales (such as on Thursdays) with targeted promotions.
   
 CONCLUSIONS:
-This EDA provides a detailed understanding of customer demographics, product performance, and sales trends. Insights from this analysis can guide marketting strategies, inventory management, and revenue optimization in this retail business.
+This EDA provides a detailed understanding of customer demographics, product performance and sales trends. Insights from this analysis can guide marketting strategies, inventory management and revenue optimization in this retail business.
