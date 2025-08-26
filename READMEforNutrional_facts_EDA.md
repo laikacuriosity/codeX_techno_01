@@ -1,7 +1,7 @@
 Internship Task 01 for CodeX Techno: Exploratory Data Analysis on Food Nutrition Dataset
 
-This project performs an Exploratory Data Analysis (EDA) on a food nutrition dataset containing details such as food items, calories, fat, and other nutritional values. 
-The main goal is to identify distributions, detect outliers, and uncover meaningful insights about calorie content and nutritional patterns.
+This project performs an Exploratory Data Analysis (EDA) on a food nutrition dataset containing details such as food items, calories, fat and other nutritional values. 
+The main goal is to identify distributions, detect outliers and uncover meaningful insights about calorie content and nutritional patterns.
 
 1. DATASET DESCRIPTION
 
@@ -13,7 +13,7 @@ Consistency: All categorical values appear consistent<br>
 
 1.2 DATA TYPES
 
-Numeric: Calories, Protein, Carbohydrates, Total Fat, Sugar
+Numeric: Calories, Protein, Carbohydrates, Total Fat and Sugar.
 Categorical: Item, Category<br>
 Datetime: None<br>
 
@@ -29,7 +29,7 @@ Average fat per item: 9 g<br>
 
 2.1 DATA OVERVIEW:
 
-Checked dataset shape, column names, and types.<br>
+Checked dataset shape, column names and types.<br>
 Verified no missing or duplicate values.<br>
 Identified variation in calorie content across categories.<br>
 
@@ -46,7 +46,7 @@ Outlier detection: Boxplots and IQR method used to identify calorie outliers.<br
 Histograms: calorie distribution, fat distribution.<br>
 Boxplots: detected calorie outliers (items above ~650 kcal).<br>
 Bar charts: compared calorie averages across categories.<br>
-Heatmap: correlation between calories, fat, sugar, and protein.<br>
+Heatmap: correlation between calories, fat, sugar and protein.<br>
 
 3. INSIGHTS
 
@@ -59,7 +59,7 @@ Drinks and desserts generally have higher sugar but lower protein.<br>
 
 3.2 Outlier Analysis:
 
-Outliers identified above 650 kcal are mostly burgers, fried foods, and combos.
+Outliers identified above 650 kcal are mostly burgers, fried foods and combos.
 Low-calorie outliers (<100 kcal) are mostly salads and beverages.
 
 3.3 Category Trends:
@@ -80,5 +80,5 @@ Outliers (>700 kcal) should be flagged in menus with nutritional warnings.<br>
 5. CONCLUSION:
 
 This EDA reveals important insights into calorie distribution and nutritional content of food items. <br>
-The analysis highlights outliers, category differences, and correlations, which can be used by 
-restaurants, nutritionists,and customers to make informed dietary choices.<br>
+The analysis highlights outliers, category differences and correlations, which can be used by 
+restaurants, nutritionists and customers to make informed dietary choices.<br>
