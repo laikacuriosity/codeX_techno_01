@@ -2,7 +2,7 @@ Internship Task 01 for CodeX Techno: Exploratory Data Analysis on Food Nutrition
 
 This project performs an Exploratory Data Analysis (EDA) on a food nutrition dataset containing details such as food items, calories, fat and other nutritional values. 
 The main goal is to identify distributions, detect outliers and uncover meaningful insights about calorie content and nutritional patterns.
-
+<br>DATASET LINK: https://www.kaggle.com/datasets/mcdonalds/nutrition-facts<br>
 1. DATASET DESCRIPTION
 
 Total rows: 260<br>
