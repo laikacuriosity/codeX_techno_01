@@ -3,6 +3,8 @@ Internship task 01 for CodeX Techno
 
 This project performs an Exploratory Data Analysis on a retail sales dataset containing 1000 transactions. The dataset includes customer demographics, product details, and sales amounts. The goal of this analysis is to uncover patterns in customer behaviour, sales trends, and product performance.
 
+<br>Dataset: Please refer to the repository for the actual dataset file named retail_sales_dataset.csv<br>
+
 1.DATASET DESCRIPTION:
 
 Total rows:1000
